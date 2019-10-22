@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class ReisingerPE7{
 	public static void main(String[] args){
 		//This is a test comment
+		//This is another test comment
 		float rooms = 0, rate, occupiedRooms = 0, roomsTotal = 0, occupiedTotal = 0;
 		int floors = 0;
 		Scanner keyboard = new Scanner(System.in);
