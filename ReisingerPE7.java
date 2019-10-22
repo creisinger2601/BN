@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class ReisingerPE7{
+	//This is a test Comment
 	public static void main(String[] args){
 		float rooms = 0, rate, occupiedRooms = 0, roomsTotal = 0, occupiedTotal = 0;
 		int floors = 0;
